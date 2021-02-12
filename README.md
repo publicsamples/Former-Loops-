@@ -1,5 +1,7 @@
 # Former Loops 
  A collection of loops mangled with Kontakt's Tone Machine
+ 
+ - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/formerloops.html)
 
 **This collection requires you to download the audio seperately**
 
