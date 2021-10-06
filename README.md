@@ -1,9 +1,8 @@
 # Former Loops 
  A collection of loops mangled with Kontakt's Tone Machine
  
- - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/formerloops.html)
+**[Download Audio](https://github.com/publicsamples/Former-Loops-/releases/tag/1.0)**
 
-**This collection requires you to download the audio seperately**
 
 [Download Audio from Dropbox](https://www.dropbox.com/sh/itp9g5u0wggb698/AADGU887KgCZkKQh4LaIlmQva?dl=0)
 
