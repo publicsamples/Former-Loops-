@@ -3,9 +3,6 @@
  
 **[Download Audio](https://github.com/publicsamples/Former-Loops-/releases/tag/1.0)**
 
-
-[Download Audio from Dropbox](https://www.dropbox.com/sh/itp9g5u0wggb698/AADGU887KgCZkKQh4LaIlmQva?dl=0)
-
 # Support this project
 
 [Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
