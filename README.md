@@ -2,11 +2,23 @@
  A collection of loops mangled with Kontakt's Tone Machine
  
 **[Download Audio](https://github.com/publicsamples/Former-Loops-/releases/tag/1.0)**
+<div align="center">
+      <a href="https://youtu.be/vJZg7-DJKcg">
+     <img 
+      src="https://github.com/publicsamples/Oberheim-Xpander-CK-Session-2/raw/master/embed.png" 
+      alt="Video Demo" 
+      style="width:100%;">
+      </a>
+    </div>
 
-# Support this project
 
-[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
+## **Get help**
+
+[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
+
+## **Support this project**
 
 [
-![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
-](https://gum.co/modularsamples-drives)
+![loop](https://www.modularsamples.com/img/ulp.jpg)
+](https://www.modularsamples.com/untitled-loop-project/)
+
